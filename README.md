@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.sanity.io/images/tlr8oxjg/production/e91a4659d80f9de0294d1fc4d9c78b23a4e93146-1456x816.png?w=3840&q=100&fit=clip&auto=format)](https://samil145.io)
+[![MasterHead](https://whileweb.com/wp-content/uploads/2023/10/5809368-1.png)](https://samil145.io)
 <h1 align="center">Hi 👋, I'm Shamil Bayramli</h1>
 <h3 align="center">A passionate IOS developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*tGHAV9yItR_FISNYM7HGqQ.gif">
