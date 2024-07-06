@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@samil65617279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samil65617279" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shamil bayramli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamil bayramli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shamil-bayramli-653b00256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamil-bayramli-653b00256" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22097169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22097169" height="30" width="40" /></a>
 <a href="https://instagram.com/samil.bayramli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samil.bayramli" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shamil145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamil145" height="30" width="40" /></a>
